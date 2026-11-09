@@ -1,0 +1,24 @@
+{
+  "title": "eser@kucuker",
+  "about": [
+    [
+      { "key": "OS", "value": "macOS, iOS" },
+      { "key": "Uptime", "since": "2020-12-12" },
+      { "key": "Host", "value": "Mobven" },
+      { "key": "Kernel", "value": "Swift Developer (iOS & Vapor)" },
+      { "key": "IDE", "value": "Xcode" }
+    ],
+    [
+      { "key": "Languages.Programming", "value": "Swift, C#, TypeScript, Python" },
+      { "key": "Languages.Computer", "value": "JSON, YAML, Markdown" },
+      { "key": "Languages.Real", "value": "Turkish, English" }
+    ],
+    [
+      { "key": "Hobbies", "value": "Coding, Reading documentation" }
+    ]
+  ],
+  "contact": [
+    { "key": "Email.Work", "value": "eser.kucuker@mobven.com" },
+    { "key": "GitHub", "value": "NOTB4D" }
+  ]
+}
